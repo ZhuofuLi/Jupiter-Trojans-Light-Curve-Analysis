@@ -79,7 +79,15 @@ These findings lay the groundwork for future analyses using data from the **Vera
 ## **How to Cite**  
 If you use this dataset in your research, please cite it as:  
 
-TBD
+@article{Li2025Trojans,
+  author = {Li, Zhuofu (Chester) and Chowdhury, Yasin A. and Ivezi{\'c}, {\v{Z}}eljko and Mahabal, Ashish and Heinze, Ari and Jones, Lynne and Thompson, Mercedes S. and Bellm, Eric and Juri{\'c}, Mario and Connolly, Andrew J. and Bolin, Bryce and Masci, Frank J. and Wold, Avery and Riddle, Reed L. and Dekany, Richard G.},
+  title = {Estimates of rotation periods for Jupiter Trojans with the Zwicky Transient Facility photometric lightcurves},
+  journal = {Icarus},
+  volume = {438},
+  pages = {116609},
+  year = {2025},
+  doi = {10.1016/j.icarus.2025.116609}
+}
 
 ---
 
